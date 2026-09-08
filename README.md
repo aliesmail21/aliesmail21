@@ -118,11 +118,7 @@ console.log("Hello, I'm " + ali.name + " 👋");
 </div>
 
 <details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/aliesmail21/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
+  
 
 <hr></hr>
 
