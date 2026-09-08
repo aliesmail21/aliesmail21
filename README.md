@@ -112,12 +112,6 @@ console.log("Hello, I'm " + ali.name + " 👋");
 <br>
 
 <img align="center" src="https://raw.githubusercontent.com/aliesmail21/aliesmail21/main/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
-
-</div>
-
-<details>
   
 
 <hr></hr>
