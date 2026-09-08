@@ -135,34 +135,5 @@ console.log(`Hello, I'm ${ali.name} 👋`);
 
 </details>
 
-<hr>
-
-## 💻 Code Cycle
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
-
-<br><br>
-
-😵 **It doesn't work**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-😌 **Finally fixed!**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-😳 **It works... but I don't know why!**
-
-<br><br>
 
 </div>
